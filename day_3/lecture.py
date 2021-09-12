@@ -49,6 +49,7 @@ def add(a, b):
 
 myNumber = add(5, 9)
 print(myNumber)
+# Also valid is #print(add(5, 9))
 
 # A Python function will always have a return value. There is no notion of procedure or routine in Python. So, if you don’t explicitly use a return value in a return statement, or if you totally omit the return statement, then Python will implicitly return a default value for you. That default return value will always be None.
 

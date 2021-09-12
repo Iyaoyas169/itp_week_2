@@ -19,7 +19,6 @@ for member in myImmediateFamily:
 
 #You CAN add values to a set using the add() method
 myImmediateFamily.add("Adopted")
-
 print(myImmediateFamily)
 
 #----------MODULES------------
