@@ -79,6 +79,12 @@ your_car = {
   "colors": ["red", "white", "blue"]
 }
 
+
+
+
+
+
+
 # Accessing Items
 # You can access the items of a dictionary by referring to its key name, inside square brackets:
 
@@ -138,7 +144,7 @@ z = car.items()
 print(x)
 print(y)
 car["condition"] = "fair" # new key created
-car["year"] = 2018
+car["year"] = 2018 # updating an existing entry
 
 #after the change
 print(x)
